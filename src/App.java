@@ -1,3 +1,5 @@
+package src;
+
 import model.Difficulty;
 //import model.Minesweeper;
 import model.PlayableMinesweeper;
